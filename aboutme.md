@@ -7,7 +7,7 @@ subtitle:  you should know about me
 I am an undergraduate student enrolled in B.Tech Computer Science and Engineering at Indian Institute of Technology, Roorkee.
 I am an enthusiast and a keen learner. I’m very interested to work fields Software development and Machine Learning.due 
 to my insatiable hunger for exploration.
--I am also active in Social Work.I am Part of CRY(child right and You)IIT Roorkee.
+##I am also active in Social Work.I am Part of CRY(child right and You)IIT Roorkee.
 Mentoring Underprivileged children in slum area and working for child Rights. We 
 I tried as much as i could to explore in My Engineering Life till now.
 -I am  also sports person,Part of Taekwondo Team IITR and Green 1 belt.
